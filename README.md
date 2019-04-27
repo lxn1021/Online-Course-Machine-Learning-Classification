@@ -7,6 +7,8 @@ I took this online course in 2018 (https://www.coursera.org/learn/ml-classificat
 
 - **Week 1 --- Linear Classifiers and Logistic Regression**
 
+From the course "Linear classifiers are amongst the most practical classification methods."
+
   [Bullet Points](https://github.com/lxn1021/ML/blob/master/bullet%20points_week1.pdf)
   
   [Implementation in Graphlab (class assginment)](https://github.com/lxn1021/ML/blob/master/Predict%20sentiment_SF.ipynb)
