@@ -2,7 +2,7 @@
 ## --- Online Course by University of Washington, Seattle 
 
 
-I took this online course in 2018 (https://www.coursera.org/learn/ml-classification). The class assignments are implemented in Python Graphlab. I think it might be a good idea to redo the assignments in Python Scikit-learn, which is more widely used in industry. Also, reproducing the same work by using another library will definitely strengthen my understanding about the course materials. So, I try to convert the "graphlab" to "sklearn", although most of the time they're the same.
+I took this online course in 2018 (https://www.coursera.org/learn/ml-classification). The class assignments are implemented in Python Graphlab. I think it might be a good idea to redo the assignments in Python Scikit-learn, which is more widely used in industry. Also, reproducing the same work by using another library will definitely strengthen my understanding about the course materials. So, I try to convert the "graphlab" to "sklearn" and "pandas", although most of the time they're the same.
 
 
 - **Week 1 --- Linear Classifiers and Logistic Regression**
@@ -13,4 +13,4 @@ From the course "Linear classifiers are amongst the most practical classificatio
   
   [Implementation in Graphlab (class assginment)](https://github.com/lxn1021/ML/blob/master/Predict%20sentiment_SF.ipynb)
   
-  [Implementation in Scikit-Learn (in progress...)]
+  [Implementation in Scikit-Learn/Pandas (in progress...)]
