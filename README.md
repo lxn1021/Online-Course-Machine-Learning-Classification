@@ -13,4 +13,4 @@ From the course "Linear classifiers are amongst the most practical classificatio
   
   [Implementation in Graphlab (class assginment)](https://github.com/lxn1021/ML/blob/master/Predict%20sentiment_SF.ipynb)
   
-  [Implementation in Scikit-Learn/Pandas (in progress...)]
+  [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Predict%20sentiment_DF.ipynb)
