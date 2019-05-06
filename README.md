@@ -15,4 +15,4 @@ From the course "Linear classifiers are amongst the most practical classificatio
   
   [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Predict%20sentiment_DF.ipynb)
   
-  [Python Knowledge]()
+  [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week1.pdf)
