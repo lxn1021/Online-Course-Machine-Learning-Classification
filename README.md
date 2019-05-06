@@ -16,3 +16,16 @@ From the course "Linear classifiers are amongst the most practical classificatio
   [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Predict%20sentiment_DF.ipynb)
   
   [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week1.pdf)
+  
+  
+- **Week2 --- Learning Linear Classifiers**
+
+From the course "You will use gradient ascent to learn the coefficients of your classifier from data."
+
+  [Bullet Points (in progress...)]
+  
+  [Implementation in Graphlab (class assignment) (in progress...)]
+  
+  [Implementation in Scikit-Learn/Pandas (in progress...)]
+  
+  [Python Knowledge (in progress...)]
