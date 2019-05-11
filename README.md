@@ -24,7 +24,7 @@ From the course "You will use gradient ascent to learn the coefficients of your 
 
   [Bullet Points (in progress...)]
   
-  [Implementation in Graphlab (class assignment) (in progress...)]
+  [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Linear%20Classifier%20Regularization_SF.ipynb)
   
   [Implementation in Scikit-Learn/Pandas (in progress...)]
   
