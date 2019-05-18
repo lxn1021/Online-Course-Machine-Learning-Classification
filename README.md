@@ -22,7 +22,7 @@ From the course "Linear classifiers are amongst the most practical classificatio
 
 From the course "You will use gradient ascent to learn the coefficients of your classifier from data."
 
-  [Bullet Points (in progress...)]
+  [Bullet Points](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week2.pdf)
   
   [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Linear%20Classifier%20Regularization_SF.ipynb)
   
