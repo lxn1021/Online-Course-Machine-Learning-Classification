@@ -28,4 +28,4 @@ From the course "You will use gradient ascent to learn the coefficients of your 
   
   [Implementation in Scikit-Learn/Pandas (in progress...)]
   
-  [Python Knowledge (in progress...)]
+  [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week2.pdf)
