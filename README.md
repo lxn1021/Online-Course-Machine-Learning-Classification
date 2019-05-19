@@ -29,3 +29,11 @@ From the course "You will use gradient ascent to learn the coefficients of your 
   [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Linear%20Classifier%20Regularization_DF.ipynb)
   
   [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week2.pdf)
+  
+  
+- **Week3 --- Decision Trees**
+
+From the course "Decision trees are amongst the most widely used classification techniques in the real world. This method is extremely intuitive, simple to implement and provides interpretable predictions."
+
+  [Bullet Points (in progress...)]
+ 
