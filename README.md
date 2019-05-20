@@ -35,5 +35,7 @@ From the course "You will use gradient ascent to learn the coefficients of your 
 
 From the course "Decision trees are amongst the most widely used classification techniques in the real world. This method is extremely intuitive, simple to implement and provides interpretable predictions."
 
-  [Bullet Points (in progress...)]
+  [Bullet Points](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week3.pdf)
+  
+  [Implementation in Graphlab (class assignment) (in progress...)]
  
