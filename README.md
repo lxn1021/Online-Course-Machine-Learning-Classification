@@ -42,5 +42,8 @@ From the course "Decision trees are amongst the most widely used classification 
   [Implementation in Scikit-Learn/Pandas --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Decision%20Trees_DF.ipynb)
   
   [Python Knowledge --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week3.pdf)
+  
+  [Implementation in Graphlab (class assignment) --- Part II (in progress...)]
+  
  
  
