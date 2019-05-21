@@ -18,7 +18,7 @@ From the course "Linear classifiers are amongst the most practical classificatio
   [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week1.pdf)
   
   
-- **Week2 --- Learning Linear Classifiers**
+- **Week 2 --- Learning Linear Classifiers**
 
 From the course "You will use gradient ascent to learn the coefficients of your classifier from data."
 
@@ -31,7 +31,7 @@ From the course "You will use gradient ascent to learn the coefficients of your 
   [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week2.pdf)
   
   
-- **Week3 --- Decision Trees**
+- **Week 3 --- Decision Trees**
 
 From the course "Decision trees are amongst the most widely used classification techniques in the real world. This method is extremely intuitive, simple to implement and provides interpretable predictions."
 
