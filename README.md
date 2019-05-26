@@ -58,6 +58,6 @@ From the course "Decision trees are amongst the most widely used classification 
   
   [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Decision%20Trees%20Overfitting_SF.ipynb)
   
-  [Implementation in Scikit-Learn/Pandas (in progress...)]
+  [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Decision%20Trees%20Overfitting_DF.ipynb)
   
-  [Python Knowledge (in progress..)]
+
