@@ -61,3 +61,8 @@ From the course "Decision trees are amongst the most widely used classification 
   [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Decision%20Trees%20Overfitting_DF.ipynb)
   
 
+- **Week 5 --- Boosting**
+
+From the course "One of the most exciting theoretical questions that have been asked about machine learning is whether simple classifiers can be combined into a highly accurate ensemble. This question lead to the developing of boosting."
+
+  [Bullet Points (in progress...)]
