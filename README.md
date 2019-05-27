@@ -65,4 +65,4 @@ From the course "Decision trees are amongst the most widely used classification 
 
 From the course "One of the most exciting theoretical questions that have been asked about machine learning is whether simple classifiers can be combined into a highly accurate ensemble. This question lead to the developing of boosting."
 
-  [Bullet Points --- Part I (in progress...)]
+  [Bullet Points --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week5.pdf)
