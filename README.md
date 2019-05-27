@@ -69,6 +69,6 @@ From the course "One of the most exciting theoretical questions that have been a
   
   [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_SF_1.ipynb)
   
-  [[Implementation in Scikit-Learn/Pandas] (in progress...)]
+  [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_DF_1.ipynb)
   
   [Python Knowledge (in progress...)]
