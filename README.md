@@ -67,4 +67,8 @@ From the course "One of the most exciting theoretical questions that have been a
 
   [Bullet Points --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week5.pdf)
   
-  [Implementation in Graphlab (class assignment) (in progress...)]
+  [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_SF_1.ipynb)
+  
+  [[Implementation in Scikit-Learn/Pandas] (in progress...)]
+  
+  [Python Knowledge (in progress...)]
