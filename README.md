@@ -67,8 +67,16 @@ From the course "One of the most exciting theoretical questions that have been a
 
   [Bullet Points --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week5.pdf)
   
-  [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_SF_1.ipynb)
+  [Implementation in Graphlab (class assignment) --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_SF_1.ipynb)
   
-  [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_DF_1.ipynb)
+  [Implementation in Scikit-Learn/Pandas --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_DF_1.ipynb)
   
-  [Python Knowledge (in progress...)]
+  [Python Knowledge --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week4.pdf)
+  
+  [Bullet Points --- Part II (in progress...)]
+  
+  [Implementation in Graphlab (class assignment) --- Part II (in progress...)]
+  
+  [Implementation in Scikit-Learn/Pandas --- Part II (in progress...)]
+  
+  [Python Knowledge --- Part II (in progress...)]
