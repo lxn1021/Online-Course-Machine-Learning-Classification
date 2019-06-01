@@ -65,15 +65,13 @@ From the course "Decision trees are amongst the most widely used classification 
 
 From the course "One of the most exciting theoretical questions that have been asked about machine learning is whether simple classifiers can be combined into a highly accurate ensemble. This question lead to the developing of boosting."
 
-  [Bullet Points --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week5.pdf)
+  [Bullet Points](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week5.pdf)
   
   [Implementation in Graphlab (class assignment) --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_SF_1.ipynb)
   
   [Implementation in Scikit-Learn/Pandas --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_DF_1.ipynb)
   
   [Python Knowledge --- Part I](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week4.pdf)
-  
-  [Bullet Points --- Part II (in progress...)]
   
   [Implementation in Graphlab (class assignment) --- Part II](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_SF_2.ipynb)
   
