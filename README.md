@@ -79,4 +79,4 @@ From the course "One of the most exciting theoretical questions that have been a
   
   [Implementation in Scikit-Learn/Pandas --- Part II](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_DF_2.ipynb)
   
-  [Python Knowledge --- Part II (in progress...)]
+  [Python Knowledge --- Part II](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week4_II.pdf)
