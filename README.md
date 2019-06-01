@@ -78,3 +78,12 @@ From the course "One of the most exciting theoretical questions that have been a
   [Implementation in Scikit-Learn/Pandas --- Part II](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Boosting_DF_2.ipynb)
   
   [Python Knowledge --- Part II](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week4_II.pdf)
+  
+  
+  - **Week 6 --- Precision-Recall**
+  
+From the course "In many real-world settings, accuracy or error are not the best quality metrics for classification. Instead of accuracy, you will define two metrics: precision and recall, which are widely used in real-world applications to measure the quality of classifiers."
+
+  [Bullet Points (in progress...)]
+  
+  [Implementation in Graphlab (class assignment) (in progress...)]
