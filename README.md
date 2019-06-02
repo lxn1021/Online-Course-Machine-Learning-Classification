@@ -84,6 +84,6 @@ From the course "One of the most exciting theoretical questions that have been a
   
 From the course "In many real-world settings, accuracy or error are not the best quality metrics for classification. Instead of accuracy, you will define two metrics: precision and recall, which are widely used in real-world applications to measure the quality of classifiers."
 
-  [Bullet Points]()
+  [Bullet Points](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week6.pdf)
   
   [Implementation in Graphlab (class assignment) (in progress...)]
