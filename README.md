@@ -86,4 +86,8 @@ From the course "In many real-world settings, accuracy or error are not the best
 
   [Bullet Points](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/bullet%20points_week6.pdf)
   
-  [Implementation in Graphlab (class assignment) (in progress...)]
+  [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Precision_Recall_SF.ipynb)
+  
+  [Implementation in Scikit-Learn/Pandas (in progress...)]
+  
+  [Python Knowledge (in progress...)]
