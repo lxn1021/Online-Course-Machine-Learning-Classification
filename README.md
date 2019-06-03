@@ -88,6 +88,6 @@ From the course "In many real-world settings, accuracy or error are not the best
   
   [Implementation in Graphlab (class assignment)](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Precision_Recall_SF.ipynb)
   
-  [Implementation in Scikit-Learn/Pandas (in progress...)]
+  [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Precision_Recall_DF.ipynb)
   
   [Python Knowledge (in progress...)]
