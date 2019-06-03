@@ -90,4 +90,4 @@ From the course "In many real-world settings, accuracy or error are not the best
   
   [Implementation in Scikit-Learn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Precision_Recall_DF.ipynb)
   
-  [Python Knowledge (in progress...)]
+  [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Classification/blob/master/Python%20knowledge_week6.pdf)
